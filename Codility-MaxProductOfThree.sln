@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-MaxProductOfThree", "Codility-MaxProductOfThree\Codility-MaxProductOfThree.csproj", "{B85BE59F-4101-43BE-90D9-5435BA9962FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-MaxProductOfThreeTests", "Codility-MaxProductOfThreeTests\Codility-MaxProductOfThreeTests.csproj", "{44F3C11A-9926-4BC6-84EB-35A481F61507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B85BE59F-4101-43BE-90D9-5435BA9962FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85BE59F-4101-43BE-90D9-5435BA9962FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85BE59F-4101-43BE-90D9-5435BA9962FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85BE59F-4101-43BE-90D9-5435BA9962FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F3C11A-9926-4BC6-84EB-35A481F61507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F3C11A-9926-4BC6-84EB-35A481F61507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F3C11A-9926-4BC6-84EB-35A481F61507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F3C11A-9926-4BC6-84EB-35A481F61507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {023414DF-6BC3-426D-87A5-F64B1941EB85}
+	EndGlobalSection
+EndGlobal
